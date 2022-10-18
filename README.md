@@ -23,7 +23,7 @@
 
 ### 👨‍💻: About Me:
 I am a part time it-administrator from Austria.
-- 👨‍🎓 Currently styding computer science at FH Joanneum Graz.
+- 👨‍🎓 Currently studying computer science at FH Joanneum Graz.
 - 👨‍💼 Part-time unning my own company focusing on public/private and hybrid clouds.
 - 🆓 In my free time, I take care of my own it infrastructure and write code from time to time.
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-stefanjb-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-j%C3%B6bstl-a0a4a6177/)
