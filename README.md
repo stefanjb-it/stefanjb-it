@@ -9,9 +9,6 @@
   <a href="https://www.reddit.com/user/splitplex">
     <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge">
   </a>
-  <a href="https://twitter.com/pure_vicious">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
-  </a>
 </div>
 
 <h1 align="center">
