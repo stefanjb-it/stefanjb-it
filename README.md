@@ -51,7 +51,7 @@ I am a part-time it-administrator from Austria.
 
 ### 🔥 My stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stefanjb-it&theme=synthwave)](https://git.io/streak-stats) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanjb-it&layout=compact&langs_count=10&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-dqyc.vercel.app/api/top-langs/?username=stefanjb-it&layout=compact&langs_count=10&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 stefanjb-it/stefanjb-it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
