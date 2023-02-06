@@ -43,6 +43,7 @@ I am a part-time it-administrator from Austria.
 	<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width=40px height=40px>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width=40px height=40px>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width=40px height=40px>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width=40px height=40px>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" width=40px height=40px>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width=40px height=40px>
 </div>
